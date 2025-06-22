@@ -36,21 +36,9 @@ Optimize matrix multiplication for large-scale square matrices by reducing compu
 ## 🧪 How to Run
 
 1. Clone this repo  
-2. Compile:  
-   `g++ -fopenmp -O2 strassen_parallel.cpp -o strassen`  
-3. Run:  
-   `./strassen`
+2. Go throught Major-Project.pdf, it shows how to run steps by steps
 
 ---
-
-## 📁 File Structure
-
-```
-├── strassen_parallel.cpp     # Core implementation
-├── matrix_utils.cpp          # Matrix allocation, printing, validation
-├── timing.cpp                # Benchmarking utilities
-└── README.md                 # You're here!
-```
 
 ---
 
